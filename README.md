@@ -1,5 +1,5 @@
 # ASPNETMVC5ForBeginnersDemo
-Thi project is the source code for my eBook highlighting building apps with ASP.NET MVC 5.
+This project is the source code for my eBook highlighting building apps with ASP.NET MVC 5.
 
 The book is a hands-on tutorial on ASP.NET MVC 5 and is targeted to starters who are new to this technology. Following are the highlights of the content:
 
